@@ -1,2 +1,2 @@
 # google_hompage
-$git clone
+$ git clone
